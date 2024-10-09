@@ -1,0 +1,14 @@
+/Users/annakijlstra/Desktop/Labb2DungeonCrawler/Labb2DungeonCrawler/obj/Debug/net8.0/Labb2DungeonCrawler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annakijlstra/Desktop/Labb2DungeonCrawler/Labb2DungeonCrawler/obj/Debug/net8.0/Labb2DungeonCrawler.AssemblyInfoInputs.cache
+/Users/annakijlstra/Desktop/Labb2DungeonCrawler/Labb2DungeonCrawler/obj/Debug/net8.0/Labb2DungeonCrawler.AssemblyInfo.cs
+/Users/annakijlstra/Desktop/Labb2DungeonCrawler/Labb2DungeonCrawler/obj/Debug/net8.0/Labb2DungeonCrawler.csproj.CoreCompileInputs.cache
+/Users/annakijlstra/Desktop/Labb2DungeonCrawler/Labb2DungeonCrawler/bin/Debug/net8.0/Labb2DungeonCrawler
+/Users/annakijlstra/Desktop/Labb2DungeonCrawler/Labb2DungeonCrawler/bin/Debug/net8.0/Labb2DungeonCrawler.deps.json
+/Users/annakijlstra/Desktop/Labb2DungeonCrawler/Labb2DungeonCrawler/bin/Debug/net8.0/Labb2DungeonCrawler.runtimeconfig.json
+/Users/annakijlstra/Desktop/Labb2DungeonCrawler/Labb2DungeonCrawler/bin/Debug/net8.0/Labb2DungeonCrawler.dll
+/Users/annakijlstra/Desktop/Labb2DungeonCrawler/Labb2DungeonCrawler/bin/Debug/net8.0/Labb2DungeonCrawler.pdb
+/Users/annakijlstra/Desktop/Labb2DungeonCrawler/Labb2DungeonCrawler/obj/Debug/net8.0/Labb2DungeonCrawler.dll
+/Users/annakijlstra/Desktop/Labb2DungeonCrawler/Labb2DungeonCrawler/obj/Debug/net8.0/refint/Labb2DungeonCrawler.dll
+/Users/annakijlstra/Desktop/Labb2DungeonCrawler/Labb2DungeonCrawler/obj/Debug/net8.0/Labb2DungeonCrawler.pdb
+/Users/annakijlstra/Desktop/Labb2DungeonCrawler/Labb2DungeonCrawler/obj/Debug/net8.0/Labb2DungeonCrawler.genruntimeconfig.cache
+/Users/annakijlstra/Desktop/Labb2DungeonCrawler/Labb2DungeonCrawler/obj/Debug/net8.0/ref/Labb2DungeonCrawler.dll
